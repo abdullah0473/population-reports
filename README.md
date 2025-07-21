@@ -10,7 +10,15 @@ Supports both local (Eclipse) and Docker environments.
 - Capital cities by population  
 - Top N populous cities  
 - City vs Non-city population by country  
-- Language population statistics  
+- Language population statistics
+
+## Project Management Evidence
+
+### Kanban Board (GitHub Projects)
+![Kanban Board](images/kanban-board.png)
+
+### Product Backlog
+Tasks were created as cards in the "To Do" column on GitHub Projects.
 
 ## 🔧 Technologies
 
