@@ -40,9 +40,10 @@ docker run -e RUN_ENV=docker -it population-reports:1.0
 Requirements Table:
 ID | Name                         | Met | Screenshot
 ---|------------------------------|-----|------------
-1  | Countries by population      | ✅  | screenshots/countries.png
-2  | Cities by population         | ✅  | screenshots/cities.png
-3  | Capital cities by population | ✅  | screenshots/capitals.png
-4  | Top N cities                 | ✅  | screenshots/top-n.png
-5  | City vs Non-city by country  | ✅  | screenshots/city-vs-noncity.png
-6  | Language stats               | ✅  | screenshots/languages.png
+1  | Countries by population      | ✅  | ![countries](images/countries.png)
+2  | Cities by population         | ✅  | ![cities](images/cities.png)
+3  | Capital cities by population | ✅  | ![capital-cities](images/capital-cities.png)
+4  | Top N cities                 | ✅  | ![top-n-cities](images/top-n-cities.png)
+5  | City vs Non-city by country  | ✅  | ![city-vs-noncity](images/city-vs-noncity.png)
+6  | Language stats               | ✅  | ![languages](images/languages.png)
+7  | Tests                        | ✅  | ![tests](images/tests.png)
