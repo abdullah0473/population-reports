@@ -1,3 +1,9 @@
+## Author
+
+**Name:** Abdullah Arshad  
+**Matriculation Number:** 40692321
+
+
 # Population Reports
 
 A Java console application that connects to the MySQL "world" database and prints population and city reports. Supports both local (Eclipse) and Docker environments.
@@ -47,3 +53,4 @@ ID | Name                         | Met | Screenshot
 5  | City vs Non-city by country  | ✅  | ![city-vs-noncity](images/city-vs-noncity.png)
 6  | Language stats               | ✅  | ![languages](images/languages.png)
 7  | Tests                        | ✅  | ![tests](images/tests.png)
+
